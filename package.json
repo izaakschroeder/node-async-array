@@ -1,0 +1,7 @@
+{
+	"name": "async-array",
+	"description": "A simple asynchronous array.",
+	"author": "Izaak Schroeder",
+	"engine": "node >= 0.4.10",
+	"main": "async-array.js"
+}
